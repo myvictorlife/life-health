@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "life-auth",
+    "staging": "app-life-58b4f"
+  },
+  "targets": {}
+}
